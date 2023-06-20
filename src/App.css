@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.error-symbol {
+  display: none; /* Hide the error symbol */
+  /* or */
+  /* Replace the error symbol with a different symbol */
+  /* background-image: url('path/to/your/custom-symbol.png'); */
+  /* background-size: contain; */
+  /* background-repeat: no-repeat; */
+}
